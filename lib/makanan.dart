@@ -23,7 +23,7 @@ class Makanan {
 
   static List<Makanan> dummyData = [
   Makanan(
-      nama: 'Bubur Ayam',
+      nama: 'Bubur Ayam Terenak',
       deskripsi: 'Nasi yang dimasak dengan air lebih',
       gambarUtama: 'assets/bubur.jpg',
       detail:

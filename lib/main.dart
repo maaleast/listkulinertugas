@@ -16,7 +16,7 @@ class MainApp extends StatelessWidget {
         backgroundColor: pageBgColor,
         appBar: AppBar(
           backgroundColor: headBgColor,
-          title: Text("Kuliner Nusantara", style: TextStyle(color: Colors.white, fontWeight: FontWeight.bold, fontSize: 20),), centerTitle: true,),
+          title: Text("Kuliner Goks dan Enak", style: TextStyle(color: Colors.white, fontWeight: FontWeight.bold, fontSize: 20),), centerTitle: true,),
         body: HomePage(),
       ),
     );
